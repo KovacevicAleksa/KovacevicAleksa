@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksa Kovacevic</h1>
 <h3 align="center">A passionate frontend and backend developer from Serbia. I am currently studying IT</h3>
 
-<img align="right" alt-"coding" width="400" src="https://user-
-images.githubusercontent.com/55389276/140866485-8f1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt-"coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8f1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **SQL ORACLE,NODE.JS**
 
