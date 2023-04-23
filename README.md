@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **SQL ORACLE,NODE.JS**
 
 - 📫 How to reach me **aleksakovacevicc@gmail.com**
-
+<img align="right" alt-"coding" width="400" src="![image](https://user-images.githubusercontent.com/48535139/233873654-53dc3813-684a-465b-976d-bdccbcaa6e7c.png)">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
