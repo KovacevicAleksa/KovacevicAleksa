@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kovacevicaleksa&label=Profile%20views&color=0e75b6&style=flat" alt="kovacevicaleksa" /> </p>
 
-- 🌱 I’m currently learning **SQL ORACLE,NODE.JS**
 
 - 📫 How to reach me **aleksakovacevicc@gmail.com**
 <h3 align="left">Connect with me:</h3>
