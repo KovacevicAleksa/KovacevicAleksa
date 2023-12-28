@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksa Kovacevic</h1>
-<h3 align="center">A passionate frontend and backend developer from Serbia. I am currently studying IT</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kovacevicaleksa&label=Profile%20views&color=0e75b6&style=flat" alt="kovacevicaleksa" /> </p>
 
