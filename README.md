@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aleksa Kovacevic</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kovacevicaleksa&label=Profile%20views&color=0e75b6&style=flat" alt="kovacevicaleksa" /> </p>
-
 
 - 📫 How to reach me **aleksakovacevicc@gmail.com**
 <p align="left">
